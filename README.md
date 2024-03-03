@@ -11,17 +11,9 @@ Brief description of your project, what it does, and its purpose.
 - [License](#license)
 
 ## Introduction
-Provide a more detailed introduction to your project. Explain what problem it solves and why it's useful.
-
-## Features
-List the key features of your project. You can use bullet points or a numbered list to highlight each feature.
-
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
+Practised the graphql
 
 ## Installation
-Provide instructions on how to install and set up your project. Include any prerequisites, dependencies, or environment setup required.
 
 ```bash
 # Clone the repository
