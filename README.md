@@ -17,7 +17,7 @@ Practised the graphql
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/prankshadow/graphql.git
 
 # Install dependencies
 npm install
