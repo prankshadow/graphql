@@ -22,9 +22,6 @@ git clone https://github.com/prankshadow/graphql.git
 # Install dependencies
 npm install
 
-Usage
-Explain how to use your project. Provide examples or code snippets to demonstrate typical usage scenarios.
-
 # Start the GraphQL server
 npm start
 
