@@ -1,6 +1,4 @@
-# GraphQL Project Name
-
-Brief description of your project, what it does, and its purpose.
+# GraphQL
 
 ## Table of Contents
 - [Introduction](#introduction)
